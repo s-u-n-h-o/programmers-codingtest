@@ -13,5 +13,6 @@ public class CodingTestApplication {
 	public static void main(String[] args) {
 		Day4 d = new Day4();
 		System.out.println(d.day4_5( -4	,7,false));
+
 	}
 }
