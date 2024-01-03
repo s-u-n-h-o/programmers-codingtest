@@ -11,8 +11,8 @@ import java.util.Scanner;
 public class CodingTestApplication {
 
 	public static void main(String[] args) {
-		Day4 d = new Day4();
-		System.out.println(d.day4_5( -4	,7,false));
+		Day5 d = new Day5();
+		System.out.println(d.day5_1("abc1abc1abc"));
 
 	}
 }
