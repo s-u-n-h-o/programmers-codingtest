@@ -10,8 +10,7 @@ import java.util.Scanner;
 @SpringBootApplication
 public class CodingTestApplication {
 	public static void main(String[] args) {
-		Day8 d = new Day8();
-		System.out.println(d.day8_5("rermgorpsam",new int[][]{{2,3},{0,7},{5,9},{6,10}}));
-
+		Day10 d = new Day10();
+		System.out.println(d.day10_3("Progra21Sremm3", 6,12));
 	}
 }
