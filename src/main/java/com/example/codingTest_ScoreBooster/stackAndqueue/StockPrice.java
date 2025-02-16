@@ -30,7 +30,6 @@ public class StockPrice {
             }
             answer[i] = count;
         }
-        System.out.println("answer : " + answer);
         return answer;
     }
 
