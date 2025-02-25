@@ -1,4 +1,4 @@
-package com.example.codingTest;
+package com.example.codingTest_basic;
 
 import static java.lang.Integer.parseInt;
 import static java.lang.Math.*;

@@ -1,8 +1,6 @@
-package com.example.codingTest_ScoreBooster.hash;
+package com.example.codingTest_scoreBooster.hash;
 
 import java.util.*;
-
-import static java.lang.Integer.sum;
 
 public class BestAlbum {
 

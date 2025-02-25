@@ -1,7 +1,4 @@
-package com.example.codingTest_ScoreBooster.stackAndqueue;
-
-import java.util.LinkedList;
-import java.util.Queue;
+package com.example.codingTest_scoreBooster.stackAndqueue;
 
 //주식가격
 public class StockPrice {

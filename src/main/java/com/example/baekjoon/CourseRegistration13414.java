@@ -8,7 +8,7 @@ import java.util.LinkedHashSet;
 import java.util.StringTokenizer;
 
 //수강신청
-public class courseRegistration13414 {
+public class CourseRegistration13414 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -1,11 +1,6 @@
-package com.example.codingTest;
+package com.example.codingTest_basic;
 
-import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
 
 @SpringBootApplication
 public class CodingTestApplication {

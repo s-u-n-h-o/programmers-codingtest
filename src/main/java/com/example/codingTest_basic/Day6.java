@@ -1,8 +1,6 @@
-package com.example.codingTest;
+package com.example.codingTest_basic;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 import static java.util.Arrays.sort;
 

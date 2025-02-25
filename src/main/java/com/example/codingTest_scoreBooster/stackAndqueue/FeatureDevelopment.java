@@ -1,4 +1,4 @@
-package com.example.codingTest_ScoreBooster.stackAndqueue;
+package com.example.codingTest_scoreBooster.stackAndqueue;
 
 import java.util.*;
 

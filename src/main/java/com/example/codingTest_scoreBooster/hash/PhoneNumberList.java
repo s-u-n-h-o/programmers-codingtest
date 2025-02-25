@@ -1,4 +1,4 @@
-package com.example.codingTest_ScoreBooster.hash;
+package com.example.codingTest_scoreBooster.hash;
 
 import java.util.Arrays;
 public class PhoneNumberList {

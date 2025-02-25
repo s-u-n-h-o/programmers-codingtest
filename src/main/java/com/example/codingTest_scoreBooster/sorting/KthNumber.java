@@ -1,4 +1,4 @@
-package com.example.codingTest_ScoreBooster.sorting;
+package com.example.codingTest_scoreBooster.sorting;
 
 import java.util.Arrays;
 

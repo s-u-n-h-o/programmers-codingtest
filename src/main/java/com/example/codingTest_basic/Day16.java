@@ -1,6 +1,4 @@
-package com.example.codingTest;
-
-import java.util.Arrays;
+package com.example.codingTest_basic;
 
 public class Day16 {
 
